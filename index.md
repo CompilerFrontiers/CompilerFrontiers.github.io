@@ -48,7 +48,7 @@ proceedings.
 
 ALl paper and extended abstract submissions must adhere to official [ACM conference format](http://www.acm.org/publications/article-templates/proceedings-template.html).  As the review process is double-blind, removal of all identifying information from paper submissions is required (i.e., cite own work in third person). Papers not conforming to the above submission policies on formatting, page limits and the removal of identifying information will be automatically rejected. Authors are strongly advised to submit their papers with the final list of authors, as changes may not be feasible at later stages.
 
-All papers must be submitted through the official workshop Easychair page: 
+All papers must be submitted through the official workshop [Easychair](https://easychair.org/conferences/?conf=compf21)
 
 ## Organizers
 * *John Leidel* - Tactical Computing Labs

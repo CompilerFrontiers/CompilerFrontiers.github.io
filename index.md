@@ -28,6 +28,7 @@ Topics of interest include, but are not limited to:
 * Domain specific language compilers
 * Compiler re-targeting for non-traditional/special-purpose architectures
 * Compiler advances for AI/ML architectures
+* Hardware compilers for RTL, FIRRTL and circuit code generation
 
 ## Deadlines
 
@@ -55,7 +56,7 @@ All papers must be submitted through the official workshop [Easychair](https://e
 * *David Donofrio* - Tactical Computing Labs
 
 ## Program Committee
-TBD
+* *Jose Molsalve-Diaz* : University of Delaware
 
 ## Contact Information
 * *John Leidel* - jleidel@tactcomplabs.com

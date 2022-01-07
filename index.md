@@ -1,6 +1,6 @@
 # 1st Annual Compiler Frontiers Workshop (2022)
 
-Held in conjunction with the [19th ACM International Conference on Computing Frontiers](http://www.computingfrontiers.org/2021/) 
+Held in conjunction with the [19th ACM International Conference on Computing Frontiers](https://www.computingfrontiers.org/2022/) 
 
 As architectures grow in complexity and power/performance requirements evolve
 far beyond what traditional data center environments offer, we find that

@@ -31,15 +31,15 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-*	Paper submissions due: February 20, 2021
-*	Notifications of acceptance: TBD
-*	Camera-ready papers due: TBD
-*	Workshop date: TBD
+*	Paper submissions due: February 21, 2022
+*	Notifications of acceptance: March 21, 2022
+*	Camera-ready papers due: April 4, 2022
+*	Workshop date: May 17, 2022
 
 
 ## Submission Guidelines
 
-Authors are encouraged to submit papers of up to 6 pages, including references,
+Authors are encouraged to submit papers of up to 6 pages, excluding references,
 describing novel work. Authors are welcome to make submissions describing
 early-stage, in-progress, and/or exploratory work in order to elicit feedback,
 discover collaboration opportunities, and spark discussion. Accepted papers will

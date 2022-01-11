@@ -34,7 +34,7 @@ Topics of interest include, but are not limited to:
 *	Paper submissions due: February 21, 2022
 *	Notifications of acceptance: March 21, 2022
 *	Camera-ready papers due: April 4, 2022
-*	Workshop date: May 17, 2022
+*	Workshop date: during Computing Frontiers conference (May 17-19, 2022)
 
 
 ## Submission Guidelines

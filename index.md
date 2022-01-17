@@ -67,7 +67,7 @@ All papers must be submitted through the official submission website:
 # Program Co-Chairs:
 
 *	*Joseph Manzano*: Pacific Northwest National Laboratory
-*	*Barbara Chapman*: Stony Brook University
+*	*Barbara Chapman*: HPE
 
 
 # Contact Information

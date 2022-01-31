@@ -66,18 +66,18 @@ All papers must be submitted through the official submission website:
 
 # Program Co-Chairs:
 
-*	*Joseph Manzano*: Pacific Northwest National Laboratory
-*	*Barbara Chapman*: HPE
+*	*Joseph Manzano* - Pacific Northwest National Laboratory
+*	*Barbara Chapman* - HPE
 
 
 # Technical Program Committee
 
-* Ulysse Beaugnon, Google
-* Johannes Doerfert, Argonne National Laboratories
-* Sriram Krishnamoorthy, Google
-* Jose Manuel Monsalve Diaz, Argonne National Laboratories
-* Eun Jung (EJ) Park, Qualcomm
-* P. (Saday) Sadayappan, University of Utah
+* Ulysse Beaugnon - Google
+* Johannes Doerfert - Argonne National Laboratories
+* Sriram Krishnamoorthy - Google
+* Jose Manuel Monsalve Diaz - Argonne National Laboratories
+* Eun Jung (EJ) Park - Qualcomm
+* P. (Saday) Sadayappan - University of Utah
 * TBD
 
 # Contact Information

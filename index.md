@@ -72,13 +72,13 @@ All papers must be submitted through the official submission website:
 
 # Technical Program Committee
 
-* Ulysse Beaugnon - Google
-* Johannes Doerfert - Argonne National Laboratories
-* Sriram Krishnamoorthy - Google
-* Jose Manuel Monsalve Diaz - Argonne National Laboratories
-* Eun Jung (EJ) Park - Qualcomm
-* P. (Saday) Sadayappan - University of Utah
-* TBD
+*   *Ulysse Beaugnon* - Google
+*   *Johannes Doerfert* - Argonne National Laboratories
+*   *Sriram Krishnamoorthy* - Google
+*   *Jose Manuel Monsalve Diaz* - Argonne National Laboratories
+*   *Eun Jung (EJ) Park* - Qualcomm
+*   *P. (Saday) Sadayappan* - University of Utah
+*   TBD
 
 # Contact Information
 

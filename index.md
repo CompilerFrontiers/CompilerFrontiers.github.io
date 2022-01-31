@@ -64,7 +64,7 @@ All papers must be submitted through the official submission website:
 *	*Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 
 
-# Program Co-Chairs:
+# Program Co-Chairs
 
 *	*Joseph Manzano* - Pacific Northwest National Laboratory
 *	*Barbara Chapman* - HPE

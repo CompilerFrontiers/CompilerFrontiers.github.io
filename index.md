@@ -74,10 +74,14 @@ All papers must be submitted through the official submission website:
 
 *   *Ulysse Beaugnon* - Google
 *   *Johannes Doerfert* - Argonne National Laboratories
+*   *Guillaume Iooss* - Inria
 *   *Sriram Krishnamoorthy* - Google
+*   *Benoit Meister* - Qualcomm
 *   *Jose Manuel Monsalve Diaz* - Argonne National Laboratories
+*   *Stephen Neuendorffer* - Xilinx
 *   *Eun Jung (EJ) Park* - Qualcomm
 *   *P. (Saday) Sadayappan* - University of Utah
+*   *Oleksandr Zinenko* - Google
 *   TBD
 
 # Contact Information

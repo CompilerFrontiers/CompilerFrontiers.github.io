@@ -1,8 +1,8 @@
+---
+layout: default
+---
 
 # 1st Annual Compiler Frontiers Workshop (2022)
-
-<button onclick="window.location.href='call_for_papers_2022.md';">Call For Papers</button>
-<button onclick="window.location.href='program_2022.md';">Program</button>
 
 *Held in conjunction with the* [19th ACM International Conference on Computing Frontiers](https://www.computingfrontiers.org/2022/)
 

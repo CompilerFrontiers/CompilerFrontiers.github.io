@@ -49,7 +49,6 @@ May 18th, 2022 (all times are CET)
 *   *Eun Jung (EJ) Park* - Qualcomm
 *   *P. (Saday) Sadayappan* - University of Utah
 *   *Oleksandr Zinenko* - Google
-*   TBD
 
 # Contact Information
 

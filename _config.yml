@@ -1,17 +1,15 @@
 
-title: Compiler Frontiers Workshop
-author: Nicolas Bohm Agostini
-
 theme: jekyll-theme-hacker
 
+title: Compiler Frontiers Workshop
+author: Nicolas Bohm Agostini
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "call_for_papers_2022"
+  Call for Papers: "call_for_papers_2022"
+  Call for Papers: "program_2022"
   CFW's home: "https://compilerfrontiers.github.io/"
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"

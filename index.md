@@ -19,6 +19,7 @@ for Computing Frontiers.
 # Program
 
 May 18th, 2022 (all times are CET)
+
 |   |   |
 |---|---|
 | <br/> 16.30 - 17.00 | **Invited talk** <br/> *Hal Finkel* <br/> Community Research Priorities for Next-Generation Scientific Computing |

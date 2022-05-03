@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 @import url("pygment_highlights.css");
 
 /* fix in-page anchors to not be behind fixed header */
@@ -14,8 +16,6 @@
 .hideme {
   display: none;
 }
-
-
 
 /* --- Navbar --- */
 

@@ -16,50 +16,14 @@ architecture research. This workshop seeks to bring together researchers and
 experts from industry and academia to present the latest advances in Compilers
 for Computing Frontiers.
 
-Topics of interest include, but are not limited to:
+# Program
 
-*	Compiler extensions for HPC, HPDC, IoT, Cloud, and Edge computing
-*	Compiler design for low power environments
-*	Compiler design for extreme parallelism
-*	Compiler optimizations and optimization frameworks
-*	Compiler optimizations for high-level abstractions
-*	Extensions to existing compiler frameworks: CLANG, GCC, MLIR, LLVM, etc.
-*	Template meta-programming constructs
-*	Domain-specific language compilers
-*	Compiler re-targeting for non-traditional/special-purpose architectures
-*	Compiler extensions for AI/ML architectures
-*	Application of ML to compiler technologies
-*	Compiler design for hardware description languages
-*	Compiler extensions for High-Level Synthesis tools targeting FPGAs or ASICs
-
-
-## Important Dates
-
-*	Paper submissions due: ~~February 21, 2022~~ February 28, 2022 AOE
-*	Notifications of acceptance: March 21, 2022
-*	Camera-ready papers due: April 4, 2022
-*	Workshop date: during Computing Frontiers conference (May 17-19, 2022)
-
-
-## Submission Guidelines
-
-Authors are encouraged to submit papers of up to 6 pages, excluding references,
-describing novel work. Authors are welcome to make submissions describing
-early-stage, in-progress, and/or exploratory work in order to elicit feedback,
-discover collaboration opportunities, and spark discussion. Accepted papers will
-be published in the workshop section of the Computing Frontiers proceedings.
-
-All paper submissions must adhere to the official 
-[ACM conference format](http://www.acm.org/publications/article-templates/proceedings-template.html). 
-As the review process is double-blind, removal of all identifying information
-from paper submissions is required (i.e., cite own work in third person). Papers
-not conforming to the above submission policies on formatting, page limits, and
-the removal of identifying information will be automatically rejected. Authors
-are strongly advised to submit their papers with the final list of authors, as
-changes may not be feasible later.
-
-All papers must be submitted through the official submission website: 
-[Easychair](https://easychair.org/my/conference?conf=cfw22)
+May 18th, 2022 (all times are CET)
+|   |   |
+|---|---|
+| <br/> 16.30 - 17.00 | **Invited talk** <br/> *Hal Finkel* <br/> Community Research Priorities for Next-Generation Scientific Computing |
+| <br/> 17.00 - 17.25 <br/><br/> 17.25 - 17.50 <br/><br/> 17.50 - 18.15 | **Paper Session** <br/>  *Davide Ferrari and Michele Amoretti* <br/> Noise-Adaptive Quantum Compilation Strategies Evaluated with Application-Motivated Benchmarks <br/> *Gaurav Verma, Swetang Finviya, Abid M. Malik, Murali Emani and Barbara Chapman* <br/> Towards Neural Architecture-Aware Exploration Of Compiler Optimizations in a Deep Learning {Graph} Compiler <br/> *Robin Voetter, Marcel Huijben and Kristian Rietveld* <br/> Compilation On The GPU? A Feasibility Study |
+| | |
 
 
 # Organizers
@@ -72,7 +36,6 @@ All papers must be submitted through the official submission website:
 
 *	*Joseph Manzano* - Pacific Northwest National Laboratory
 *	*Barbara Chapman* - HPE
-
 
 # Technical Program Committee
 

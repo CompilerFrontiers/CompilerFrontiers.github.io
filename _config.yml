@@ -8,7 +8,7 @@ author: Nicolas Bohm Agostini
 
 navbar-links:
   Call for Papers: "call_for_papers_2022"
-  Call for Papers: "program_2022"
+  Program: "program_2022"
   CFW's home: "https://compilerfrontiers.github.io/"
 
 navbar-col: "#EAEAEA"

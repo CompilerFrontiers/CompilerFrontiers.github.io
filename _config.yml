@@ -16,5 +16,5 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 
 
-# site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+ - "/assets/css/cfw.css"

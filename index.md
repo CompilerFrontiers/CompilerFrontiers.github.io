@@ -20,11 +20,16 @@ for Computing Frontiers.
 
 May 18th, 2022 (all times are CET)
 
-|   |   |
-|---|---|
-| <br/> 16.30 - 17.00 | **Invited talk** <br/> *Hal Finkel* <br/> Community Research Priorities for Next-Generation Scientific Computing |
-| <br/> 17.00 - 17.25 <br/><br/> 17.25 - 17.50 <br/><br/> 17.50 - 18.15 | **Paper Session** <br/>  *Davide Ferrari and Michele Amoretti* <br/> Noise-Adaptive Quantum Compilation Strategies Evaluated with Application-Motivated Benchmarks <br/> *Gaurav Verma, Swetang Finviya, Abid M. Malik, Murali Emani and Barbara Chapman* <br/> Towards Neural Architecture-Aware Exploration Of Compiler Optimizations in a Deep Learning {Graph} Compiler <br/> *Robin Voetter, Marcel Huijben and Kristian Rietveld* <br/> Compilation On The GPU? A Feasibility Study |
-| | |
+<table>
+    <tr>
+        <td align="left"><br/> 16.30 - 17.00</td>
+        <td align="left"><b>Invited talk</b> <br/> <i>Hal Finkel</i> <br/> Community Research Priorities for Next-Generation Scientific Computing</td>
+    </tr>
+    <tr>
+        <td align="left"><br/> 17.00 - 17.25 <br/><br/> 17.25 - 17.50 <br/><br/> 17.50 - 18.15</td>
+        <td align="left"><b>Paper Session</b> <br/>  <i>Davide Ferrari and Michele Amoretti</i> <br/> Noise-Adaptive Quantum Compilation Strategies Evaluated with Application-Motivated Benchmarks <br/> <i>Gaurav Verma, Swetang Finviya, Abid M. Malik, Murali Emani and Barbara Chapman</i> <br/> Towards Neural Architecture-Aware Exploration Of Compiler Optimizations in a Deep Learning {Graph} Compiler <br/> <i>Robin Voetter, Marcel Huijben and Kristian Rietveld</i> <br/> Compilation On The GPU? A Feasibility Study</td>
+    </tr>
+</table>
 
 
 # Organizers

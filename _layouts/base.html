@@ -17,7 +17,7 @@ common-js:
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+  <!-- <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +25,9 @@ common-js:
     {% include head-custom.html %}
 
 {% seo %}
-  </head>
+  </head> -->
+
+  {% include head.html %}
 
   <body>
 
@@ -36,13 +38,14 @@ common-js:
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <section id="downloads">
+        <section id="topbuttons">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
           <a href="{{ detailed_program_2022 | relative_url }}" class="btn">Detailed Program</a>
           <a href="{{ call_for_papers_2022 | relative_url }}" class="btn">Call for Papers</a>
+          <!-- <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
         </section>
       </div>
     </header>

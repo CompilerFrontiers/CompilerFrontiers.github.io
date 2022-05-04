@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # Call For Papers
 
 Topics of interest include, but are not limited to:

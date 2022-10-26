@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: relativebase
 permalink: /welcome-2022
 ---
 

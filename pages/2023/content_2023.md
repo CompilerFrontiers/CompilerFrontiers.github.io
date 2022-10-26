@@ -1,7 +1,3 @@
----
-layout: base
----
-
 # 2nd Annual Compiler Frontiers Workshop (2023)
 
 *Held in conjunction with the* [20th ACM International Conference on Computing Frontiers](https://www.computingfrontiers.org/2023/)

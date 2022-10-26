@@ -1,4 +1,3 @@
-
 # 1st Annual Compiler Frontiers Workshop (2022)
 
 *Held in conjunction with the* [19th ACM International Conference on Computing Frontiers](https://www.computingfrontiers.org/2022/)

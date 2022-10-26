@@ -26,7 +26,7 @@ Topics of interest include, but are not limited to:
 *	Paper submissions due: TBD
 *	Notifications of acceptance: TBD
 *	Camera-ready papers due: TBD
-*	Workshop date: TBD
+*	Workshop date: Held in conjunction with the [CF2023 conference](https://www.computingfrontiers.org/2023/) (May 9th - 11th, 2023)
 
 
 ## Submission Guidelines

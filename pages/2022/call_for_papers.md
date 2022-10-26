@@ -1,5 +1,5 @@
 ---
-layout: relativebase
+layout: base2022
 ---
 
 # Call For Papers

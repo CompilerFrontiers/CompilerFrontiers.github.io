@@ -39,6 +39,7 @@ May 18th, 2022 (all times are CET)
 *	*Joseph Manzano* - Pacific Northwest National Laboratory
 *	*Barbara Chapman* - HPE
 
+
 # Technical Program Committee
 
 *   *Ulysse Beaugnon* - Google
@@ -51,6 +52,7 @@ May 18th, 2022 (all times are CET)
 *   *Eun Jung (EJ) Park* - Qualcomm
 *   *P. (Saday) Sadayappan* - University of Utah
 *   *Oleksandr Zinenko* - Google
+
 
 # Contact Information
 

@@ -1,0 +1,31 @@
+
+theme: jekyll-theme-hacker
+
+title: Compiler Frontiers Workshop
+author: Nicolas Bohm Agostini
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  Program: "detailed_program_2022"
+  Call for Papers: "call_for_papers_2022"
+  CFW's home: "https://compilerfrontiers.github.io/"
+
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap

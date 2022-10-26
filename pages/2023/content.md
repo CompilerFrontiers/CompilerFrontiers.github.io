@@ -3,8 +3,8 @@
 *Held in conjunction with the* [20th ACM International Conference on Computing Frontiers](https://www.computingfrontiers.org/2023/)
 
 As architectures grow in complexity and power/performance requirements evolve
-far beyond what traditional data center environments offer, we find that
-compilers are becoming increasingly paramount in constructing performant,
+far beyond what traditional data center environments offer, advances in compiler
+technology are paramount to enable the construction of performant,
 power-efficient, and resilient application payloads. The ability to build
 programming model support, compilers, optimizers, and associated tooling for
 advanced architectures is now at the forefront of computer science and computer

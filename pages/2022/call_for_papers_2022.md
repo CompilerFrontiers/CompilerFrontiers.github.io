@@ -1,5 +1,5 @@
 ---
-layout: relative_base
+layout: relativebase
 ---
 
 # Call For Papers

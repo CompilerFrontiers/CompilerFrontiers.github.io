@@ -7,8 +7,8 @@ author: Nicolas Bohm Agostini
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Program: "detailed_program_2022"
-  Call for Papers: "call_for_papers_2022"
+  Program: "pages/2023/detailed_program_2023"
+  Call for Papers: "pages/2023/call_for_papers_2023"
   CFW's home: "https://compilerfrontiers.github.io/"
 
 navbar-col: "#EAEAEA"

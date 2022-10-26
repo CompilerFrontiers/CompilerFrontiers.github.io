@@ -14,14 +14,14 @@ for Computing Frontiers.
 
 # Organizers
 
-*	*Serena Curzel* - Pacific Northwest National Laboratory, Politecnico di Milano
+*	*Serena Curzel* - Politecnico di Milano
 *	*Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 
 
 # Program Co-Chairs
 
-*	*Joseph Manzano* - Pacific Northwest National Laboratory
-*	*Barbara Chapman* - HPE
+*	*Joseph Manzano* - Pacific Northwest National Laboratory (PNNL)
+*	*Barbara Chapman* - Hewlett Packard Enterprise (HPE)
 
 # Technical Program Committee
 

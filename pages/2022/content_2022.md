@@ -1,6 +1,3 @@
----
-layout: base
----
 
 # 1st Annual Compiler Frontiers Workshop (2022)
 

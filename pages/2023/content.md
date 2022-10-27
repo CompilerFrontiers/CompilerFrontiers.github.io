@@ -15,18 +15,24 @@ for Computing Frontiers.
 # Organizers
 
 *	*Serena Curzel* - Politecnico di Milano
+*	*Joseph Manzano* - Pacific Northwest National Laboratory
 *	*Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 
 
 # Program Co-Chairs
 
-*	*Joseph Manzano* - Pacific Northwest National Laboratory (PNNL)
 *	*Barbara Chapman* - Hewlett Packard Enterprise (HPE)
 
 # Technical Program Committee
 
 TBD
 
+# Steering Committee
+
+* *David Donofrio* - Tactical Computing Laboratories
+* *John Leidel*- Tactical Computing Laboratories
+
 # Contact Information
 
 *	*Nicolas Bohm Agostini* – nicolas [dot] agostini [at] pnnl [dot] gov
+

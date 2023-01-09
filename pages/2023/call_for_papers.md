@@ -23,9 +23,9 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-*	Paper submissions due: TBD
-*	Notifications of acceptance: TBD
-*	Camera-ready papers due: TBD
+*	Paper submissions due: February 17th, 2023 AOE
+*	Notifications of acceptance: March 17th, 2023
+*	Camera-ready papers due: March 24th, 2023
 *	Workshop date: Held in conjunction with the [CF2023 conference](https://www.computingfrontiers.org/2023/) (May 9th - 11th, 2023)
 
 
@@ -46,6 +46,5 @@ the removal of identifying information will be automatically rejected. Authors
 are strongly advised to submit their papers with the final list of authors, as
 changes may not be feasible later.
 
-Submission website will be available soon.
-<!-- All papers must be submitted through the official submission website: 
-[Easychair](https://easychair.org/my/conference?conf=cfw23) -->
+All papers must be submitted through the official submission website: 
+[Easychair](https://easychair.org/conferences/?conf=cfw23)

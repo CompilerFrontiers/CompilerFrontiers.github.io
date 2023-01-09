@@ -22,6 +22,7 @@ for Computing Frontiers.
 # Program Co-Chairs
 
 *	*Barbara Chapman* - Hewlett Packard Enterprise (HPE)
+*   *Simone Campanoni* - Northwestern University
 
 # Technical Program Committee
 
@@ -30,7 +31,7 @@ TBD
 # Steering Committee
 
 * *David Donofrio* - Tactical Computing Laboratories
-* *John Leidel*- Tactical Computing Laboratories
+* *John Leidel* - Tactical Computing Laboratories
 
 # Contact Information
 

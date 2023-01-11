@@ -21,8 +21,6 @@ for Computing Frontiers.
 
 Current path: {{ page.path }}
 
-Visit [Call for Papers]({% link /pages/2023/call_for_papers.md %}) for submission guidelines.
-
 # Organizers
 
 *	*Serena Curzel* - Politecnico di Milano

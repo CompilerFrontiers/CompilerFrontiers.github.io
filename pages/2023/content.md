@@ -19,7 +19,9 @@ for Computing Frontiers.
 *	Camera-ready papers due: March 24th, 2023
 *	Workshop date: Held in conjunction with the [CF2023 conference](https://www.computingfrontiers.org/2023/) (May 9th - 11th, 2023)
 
-Visit [Call for Papers]({% link /pages/2023/call_for_papers %}) for submission guidelines.
+Current path: {{ page.path }}
+
+Visit [Call for Papers]({% link /pages/2023/call_for_papers.md %}) for submission guidelines.
 
 # Organizers
 
@@ -31,7 +33,7 @@ Visit [Call for Papers]({% link /pages/2023/call_for_papers %}) for submission g
 # Program Co-Chairs
 
 *	*Barbara Chapman* - Hewlett Packard Enterprise (HPE)
-*   *Simone Campanoni* - Northwestern University
+* *Simone Campanoni* - Northwestern University
 
 # Technical Program Committee
 

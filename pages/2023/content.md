@@ -12,6 +12,15 @@ architecture research. This workshop seeks to bring together researchers and
 experts from industry and academia to present the latest advances in Compilers
 for Computing Frontiers.
 
+## Important Dates
+
+*	Paper submissions due: February 17th, 2023 AOE
+*	Notifications of acceptance: March 17th, 2023
+*	Camera-ready papers due: March 24th, 2023
+*	Workshop date: Held in conjunction with the [CF2023 conference](https://www.computingfrontiers.org/2023/) (May 9th - 11th, 2023)
+
+Visit [Call for Papers]({% link /pages/2023/call_for_papers %}) for submission guidelines.
+
 # Organizers
 
 *	*Serena Curzel* - Politecnico di Milano

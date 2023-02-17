@@ -14,9 +14,9 @@ for Computing Frontiers.
 
 ## Important Dates
 
-*	Paper submissions due: February 17th, 2023 AOE
-*	Notifications of acceptance: March 17th, 2023
-*	Camera-ready papers due: March 24th, 2023
+*	Paper submissions due: ~~February 17th, 2023 AOE~~ February 24th, 2023 AOE
+*	Notifications of acceptance: ~~March 17th, 2023~~ March 24th, 2023
+*	Camera-ready papers due: ~~March 24th, 2023~~ March 31st, 2023
 *	Workshop date: Held in conjunction with the [CF2023 conference](https://www.computingfrontiers.org/2023/) (May 9th - 11th, 2023)
 
 Visit [Call for Papers]({{ site.baseurl }}{% link pages/2023/call_for_papers.md %}) 

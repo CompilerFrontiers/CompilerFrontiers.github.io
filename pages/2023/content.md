@@ -35,7 +35,11 @@ for submission guidelines and website.
 
 # Technical Program Committee
 
-TBD
+* *Kristian Rietveld* - Leiden University
+* *Antonino Tumeo* - Pacific Northwest National Laboratory
+*	*Serena Curzel* - Politecnico di Milano
+*	*Joseph Manzano* - Pacific Northwest National Laboratory
+*	*Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 
 # Steering Committee
 

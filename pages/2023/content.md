@@ -12,15 +12,32 @@ architecture research. This workshop seeks to bring together researchers and
 experts from industry and academia to present the latest advances in Compilers
 for Computing Frontiers.
 
-## Important Dates
+# Program
 
-*	Paper submissions due: ~~February 17th, 2023 AOE~~ **February 24th, 2023 AOE**
-*	Notifications of acceptance: ~~March 17th, 2023~~ **March 24th, 2023**
-*	Camera-ready papers due: ~~March 24th, 2023~~ **March 31st, 2023**
-*	Workshop date: Held in conjunction with the [CF2023 conference](https://www.computingfrontiers.org/2023/) (May 9th - 11th, 2023)
+May 10, 2023 (all times are CEST)
 
-Visit [Call for Papers]({{ site.baseurl }}{% link pages/2023/call_for_papers.md %}) 
-for submission guidelines and website.
+<table>
+    <tr>
+        <td align="left"><br/> 15:15-15:40 </td>
+        <td align="left"><b>Invited talk</b> <br/> 
+        Application-Level Architecture Design  <br/>
+        <i>John Leidel</i> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left"><br/> 15:40-16:05 <br/><br/><br/> 16:05-16:30</td>
+        <td align="left"><b>Paper Session</b> <br/>
+        Clever DAE: Compiler Optimizations for Digital Twins at Scale <br/> 
+        <i>Michele Scuttari, Nicola Camillucci, Daniele Cattaneo, Giovanni Agosta, Francesco Casella, Stefano Cherubin and Federico Terraneo</i> <br/><br/>
+        Compiler-Injected SIHFT for Embedded Operating Systems <br/>
+        <i>Davide Baroffio and Federico Reghenzani</i> 
+        <br/>
+        </td>
+    </tr>
+</table>
+
+
+
 
 # Organizers
 

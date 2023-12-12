@@ -3,4 +3,4 @@ layout: base
 permalink: /
 ---
 
-{% include_relative pages/2023/content.md %}
+{% include_relative pages/2024/content.md %}

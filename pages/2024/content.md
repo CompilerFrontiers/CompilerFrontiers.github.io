@@ -53,10 +53,11 @@ May 10, 2024 (all times are CEST)
 
 <!-- * *Kristian Rietveld* - Leiden University -->
 * TBD
-* *Antonino Tumeo* - Pacific Northwest National Laboratory
 * *Serena Curzel* - Politecnico di Milano
+* *Jose Monsalve Diaz* - Argonne National Laboratory
 * *Joseph Manzano* - Pacific Northwest National Laboratory
 * *Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
+* *Antonino Tumeo* - Pacific Northwest National Laboratory
 
 # Steering Committee
 
@@ -66,4 +67,3 @@ May 10, 2024 (all times are CEST)
 # Contact Information
 
 * *Nicolas Bohm Agostini* – nicolas [dot] agostini [at] pnnl [dot] gov
-

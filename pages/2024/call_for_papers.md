@@ -48,4 +48,5 @@ are strongly advised to submit their papers with the final list of authors, as
 changes may not be feasible later.
 
 All papers must be submitted through the official submission website: 
-[Easychair](https://easychair.org/conferences/?conf=cfw24)
+TBD
+<!-- [Easychair](https://easychair.org/conferences/?conf=cfw24) -->

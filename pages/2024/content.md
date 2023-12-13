@@ -56,7 +56,7 @@ May 10, 2024 (all times are CEST)
 
 # Program
 
-* EJ Park
+* *EJ Park* - Qualcomm Inc.
 <!-- Academic/MLIR -->
 
 # Technical Program Committee

@@ -7,10 +7,14 @@ layout: base
 Topics of interest include, but are not limited to:
 
 * Compiler extensions for HPC, HPDC, IoT, Cloud, and Edge computing
-* Compiler design for low power environments
+* Compiler design for low-power environments
 * Compiler design for extreme parallelism
 * Compiler optimizations and optimization frameworks
 * Compiler optimizations for high-level abstractions
+* Extensions to support analog computing
+* Extensions to support neuromorphic computing
+* Extensions to support computation with chemical reaction networks (CRNs)
+* Extensions for emerging memory technologies (near and in-memory computing)
 * Extensions to existing compiler frameworks: CLANG, GCC, MLIR, LLVM, etc.
 * Template meta-programming constructs
 * Domain-specific language compilers
@@ -19,6 +23,7 @@ Topics of interest include, but are not limited to:
 * Application of ML to compiler technologies
 * Compiler design for hardware description languages
 * Compiler extensions for High-Level Synthesis tools targeting FPGAs or ASICs
+* Compiler infrastructure to support new features in traditional architectures (CPUs, GPUs, CGRAs, FPGAs, etc.)
 
 
 ## Important Dates
@@ -32,11 +37,22 @@ Topics of interest include, but are not limited to:
 
 ## Submission Guidelines
 
-Authors are encouraged to submit papers of up to 6 pages, excluding references,
-describing novel work. Authors are welcome to make submissions describing
-early-stage, in-progress, and/or exploratory work in order to elicit feedback,
-discover collaboration opportunities, and spark discussion. Accepted papers will
-be published in the workshop section of the Computing Frontiers proceedings.
+This year, we are accepting two types of submissions: Full Papers and Extended
+Abstracts.
+
+**Full Papers:**
+Authors are encouraged to submit full papers of up to 6 pages, <u>excluding</u>
+references, describing novel work. 
+
+**Extended Abstracts:**
+Authors are welcome to submit short papers describing early-stage, in-progress,
+and/or exploratory work to elicit feedback, discover collaboration
+opportunities, and spark discussion. Extended abstracts should be up to 2 pages,
+<u>including</u> references. Please, during submission, prefix your title with
+the string "EA:" to indicate that you are submitting an extended abstract.
+
+**Important**: All accepted papers will be published in the workshop section of
+the Computing Frontiers proceedings.
 
 All paper submissions must adhere to the official 
 [ACM conference format](http://www.acm.org/publications/article-templates/proceedings-template.html). 

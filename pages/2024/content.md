@@ -5,12 +5,21 @@
 As architectures grow in complexity and power/performance requirements evolve
 far beyond what traditional data center environments offer, advances in compiler
 technology are paramount to enable the construction of performant,
-power-efficient, and resilient application payloads. The ability to build
-programming model support, compilers, optimizers, and associated tooling for
-advanced architectures is now at the forefront of computer science and computer
-architecture research. This workshop seeks to bring together researchers and
-experts from industry and academia to present the latest advances in Compilers
-for Computing Frontiers.
+power-efficient, and resilient application payloads.  In this era of expanding
+architectural possibilities, this workshop seeks new research in compilers
+tailored for traditional architectures but also for the unique challenges posed
+by physical computing systems, where a system of differential equations
+describes their temporal evolution.  In addition to compiler technologies
+enabling new features (co-processors, accelerated instructions, tensor memory
+architecture engines, etc.) in traditional architectures (CPUs, GPUs, CGRAs,
+FPGAs), this year, in CFW, we seek to explore new compilation techniques for the
+intricacies inherent in emerging computing paradigms such as analog computing,
+neuromorphic computing, near and in-memory processing, chemical reaction
+networks, among others. Expanding the discussion to creative solutions when
+compiling for physical computing systems.  This workshop serves as a gathering
+ground for researchers and experts from both industry and academia, fostering
+the presentation and exploration of the latest advances in Compilers for
+Computing Frontiers.
 
 
 <!--
@@ -45,9 +54,10 @@ May 10, 2024 (all times are CEST)
 * *Jose Monsalve Diaz* - Argonne National Laboratory
 * *Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 
-# Program Co-Chairs
+# Program
 
-* TBD
+* EJ Park
+<!-- Academic/MLIR -->
 
 # Technical Program Committee
 

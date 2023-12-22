@@ -15,7 +15,7 @@ architecture engines, etc.) in traditional architectures (CPUs, GPUs, CGRAs,
 FPGAs), this year, in CFW, we seek to explore new compilation techniques for the
 intricacies inherent in emerging computing paradigms such as analog computing,
 neuromorphic computing, near and in-memory processing, chemical reaction
-networks, among others. Expanding the discussion to creative solutions when
+networks, among others, expanding the discussion to creative solutions when
 compiling for physical computing systems.  This workshop serves as a gathering
 ground for researchers and experts from both industry and academia, fostering
 the presentation and exploration of the latest advances in Compilers for

@@ -21,6 +21,9 @@ researchers and experts from both industry and academia, fostering the
 presentation and exploration of the latest advances in Compilers for Computing
 Frontiers.
 
+** Accepting Submissions **
+
+{% include_relative topics_dates.md %}
 
 <!--
 # Program
@@ -48,18 +51,18 @@ May 10, 2024 (all times are CEST)
 </table>
 -->
 
-# Organizers
+## Organizers
 
 * *Joseph Manzano* - Pacific Northwest National Laboratory
 * *Jose Monsalve Diaz* - Argonne National Laboratory
 * *Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 
-# Program
+## Program Chair
 
 * *EJ Park* - Qualcomm Inc.
 <!-- Academic/MLIR -->
 
-# Technical Program Committee
+## Technical Program Committee
 
 <!-- * *Kristian Rietveld* - Leiden University -->
 * TBD
@@ -69,11 +72,13 @@ May 10, 2024 (all times are CEST)
 * *Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 * *Antonino Tumeo* - Pacific Northwest National Laboratory
 
-# Steering Committee
+## Steering Committee
 
 * *David Donofrio* - Tactical Computing Laboratories
 * *John Leidel* - Tactical Computing Laboratories
 
-# Contact Information
+{% include_relative submission_guidelines.md %}
+
+## Contact Information
 
 * *Nicolas Bohm Agostini* – nicolas [dot] agostini [at] pnnl [dot] gov

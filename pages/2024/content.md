@@ -23,7 +23,7 @@ Frontiers.
 
 ** Accepting Submissions **
 
-{% include_relative topics_dates.md %}
+{% include_relative topics_and_dates.md %}
 
 <!--
 # Program

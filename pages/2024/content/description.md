@@ -1,4 +1,4 @@
-# 3nd Annual Compiler Frontiers Workshop (2024)
+# 3rd Annual Compiler Frontiers Workshop (2024)
 
 *Held in conjunction with the* [21th ACM International Conference on Computing Frontiers](https://www.computingfrontiers.org/2024/)
 

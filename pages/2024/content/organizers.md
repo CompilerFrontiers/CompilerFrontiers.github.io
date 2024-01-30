@@ -13,6 +13,8 @@
 
 <!-- * *Kristian Rietveld* - Leiden University -->
 * TBD
+* *Ulysse Beaugnon* – Google Research
+* *Franck Slama* – Qualcomm
 * *Serena Curzel* - Politecnico di Milano
 * *Jose Monsalve Diaz* - Argonne National Laboratory
 * *Joseph Manzano* - Pacific Northwest National Laboratory

@@ -17,6 +17,7 @@
 * *Franck Slama* – Qualcomm
 * *Serena Curzel* - Politecnico di Milano
 * *Jose Monsalve Diaz* - Argonne National Laboratory
+* *Rizwan Ashraf* - Pacific Northwest National Laboratory
 * *Joseph Manzano* - Pacific Northwest National Laboratory
 * *Nicolas Bohm Agostini* - Pacific Northwest National Laboratory, Northeastern University
 * *Antonino Tumeo* - Pacific Northwest National Laboratory

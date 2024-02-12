@@ -5,7 +5,7 @@ Abstracts.
 
 **Full Papers:**
 Authors are encouraged to submit full papers of up to 6 pages, <u>excluding</u>
-references, describing novel work. 
+references, describing novel work. Authors may buy up to two (2) extra pages for accepted regular papers.
 
 **Extended Abstracts:**
 Authors are welcome to submit short papers describing early-stage, in-progress,
@@ -15,7 +15,7 @@ opportunities, and spark discussion. Extended abstracts should be up to 2 pages,
 the string "EA:" to indicate that you are submitting an extended abstract.
 
 **Important**: All accepted papers will be published in the workshop section of
-the Computing Frontiers proceedings.
+the Computing Frontiers proceedings. Moreover, at least one author must register and present the paper at the workshop in person.
 
 All paper submissions must adhere to the official 
 [ACM conference format](http://www.acm.org/publications/article-templates/proceedings-template.html). 

@@ -7,12 +7,9 @@
 ## Program Chair
 
 * *EJ Park* - Qualcomm Inc.
-<!-- Academic/MLIR -->
 
 ## Technical Program Committee
 
-<!-- * *Kristian Rietveld* - Leiden University -->
-* TBD
 * *Ulysse Beaugnon* – Google Research
 * *Franck Slama* – Qualcomm
 * *Serena Curzel* - Politecnico di Milano

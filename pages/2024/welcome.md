@@ -9,8 +9,6 @@ layout: base
 
 {% include_relative content/topics_and_dates.md %}
 
-{% include_relative content/program_table.md %}
-
 {% include_relative content/organizers.md %}
 
 {% include_relative content/submission_guidelines.md %}

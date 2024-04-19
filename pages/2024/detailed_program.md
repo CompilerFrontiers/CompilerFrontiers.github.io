@@ -21,7 +21,7 @@ May 9, 2024 (all times are CEST)
 
 ### Opening Remarks
 
-Chairs: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
+**Chairs**: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
 
 
 ### Title: A General Purpose Analog Computer to Population Protocol Compiler
@@ -112,4 +112,4 @@ portability across diverse hardware platforms.
 
 ### Closing Remarks
 
-Chair: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
+**Chairs**: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL

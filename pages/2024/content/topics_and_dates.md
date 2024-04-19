@@ -25,4 +25,4 @@ Topics of interest include, but are not limited to:
 * Notifications of acceptance: **March 15th, 2024**
 * Camera-ready papers due: ~~March 22nd, 2024~~ **March 29, 2024 AOE**
   * Refer to instructions received by email.
-* Workshop date: Held in conjunction with the [CF2024 conference](https://www.computingfrontiers.org/2024/) (May 7th - 9th, 2024)
+* Workshop date: Held in conjunction with the [CF2024 conference](https://www.computingfrontiers.org/2024/) (Workshop will take place on May 9th, 2024)

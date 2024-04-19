@@ -21,32 +21,20 @@ researchers and experts from both industry and academia, fostering the
 presentation and exploration of the latest advances in Compilers for Computing
 Frontiers.
 
-<!-- include_relative topics_and_dates.md -->
+## Program
 
-<!--
-# Program
+May 9, 2024 (all times are CEST)
 
-May 10, 2024 (all times are CEST)
+Chairs: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
 
-<table>
-    <tr>
-        <td align="left"><br/> 15:15-15:40 </td>
-        <td align="left"><b>Invited talk</b> <br/> 
-        Application-Level Architecture Design  <br/>
-        <i>John Leidel</i> 
-        </td>
-    </tr>
-    <tr>
-        <td align="left"><br/> 15:40-16:05 <br/><br/><br/> 16:05-16:30</td>
-        <td align="left"><b>Paper Session</b> <br/>
-        Clever DAE: Compiler Optimizations for Digital Twins at Scale <br/> 
-        <i>Michele Scuttari, Nicola Camillucci, Daniele Cattaneo, Giovanni Agosta, Francesco Casella, Stefano Cherubin and Federico Terraneo</i> <br/><br/>
-        Compiler-Injected SIHFT for Embedded Operating Systems <br/>
-        <i>Davide Baroffio and Federico Reghenzani</i> 
-        <br/>
-        </td>
-    </tr>
-</table>
--->
+| Time          | Title | **Authors** |
+| ------------- | ----- | ------- |
+| 11:45-12:00   | Opening Remarks | - |
+| 12:00-12:30   | A General Purpose Analog Computer to Population Protocol Compiler | Xiang Huang and Andrei Miguno |
+| 12:30-13:00   | Compile-Time Optimization of the Energy Consumption of Numerical Computations | Dorra Ben Khalifa and Matthieu Martel |
+| 13:00-14:30   | Lunch Break | - |
+| 14:30-13:45   | Effective HPC Programming via Domain-Specific Abstractions and Compilation | Gokcen Kestor |
+| 14:45-15:15   | High-level synthesis for complex applications: the Bambu approach | Fabrizio Ferrandi |
+| 15:15-15:45   | Closing Remarks | - |
 
 

@@ -4,7 +4,7 @@ May 9, 2024 (all times are CEST)
 
 Chairs: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
 
-| Time          | Title | **Authors** |
+| Time          | Title | Authors |
 | ------------- | ----- | ------- |
 | 11:45-12:00   | Opening Remarks | - |
 | 12:00-12:30   | A General Purpose Analog Computer to Population Protocol Compiler | Xiang Huang and Andrei Miguno |

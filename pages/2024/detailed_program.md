@@ -43,6 +43,8 @@ techniques such as DNA strand displacement cascades.
 
 **Duration**: 30 minutes
 
+**Resources**: [Download files for the hands-on example.](https://tinyurl.com/4hbz7x64)
+
 
 ### Title: Compile-Time Optimization of the Energy Consumption of Numerical Computations
 

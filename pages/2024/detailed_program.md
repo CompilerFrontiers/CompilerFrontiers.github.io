@@ -12,16 +12,16 @@ May 9, 2024 (all times are CEST)
 | 12:00-12:30   | A General Purpose Analog Computer to Population Protocol Compiler | Xiang Huang and Andrei Migunov |
 | 12:30-13:00   | Compile-Time Optimization of the Energy Consumption of Numerical Computations | Dorra Ben Khalifa and Matthieu Martel |
 | 13:00-14:30   | Lunch Break | - |
-| 14:30-13:45   | Effective HPC Programming via Domain-Specific Abstractions and Compilation | Gokcen Kestor |
-| 14:45-15:15   | High-level synthesis for complex applications: the Bambu approach | Fabrizio Ferrandi |
-| 15:15-15:45   | Closing Remarks | - |
+| 14:30-15:00   | Effective HPC Programming via Domain-Specific Abstractions and Compilation | Gokcen Kestor |
+| 15:00-15:30   | High-level synthesis for complex applications: the Bambu approach | Fabrizio Ferrandi |
+| 15:30-15:45   | Closing Remarks | - |
 
 
 ## Papers (11:45-13:00)
 
 ### Opening Remarks
 
-**Chairs**: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
+**Chairs**: Antonino Tumeo, PNNL, US
 
 
 ### Title: A General Purpose Analog Computer to Population Protocol Compiler
@@ -114,4 +114,4 @@ portability across diverse hardware platforms.
 
 ### Closing Remarks
 
-**Chairs**: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
+**Chairs**: Antonino Tumeo, PNNL

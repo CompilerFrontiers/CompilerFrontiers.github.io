@@ -19,14 +19,18 @@ May 9, 2024 (all times are CEST)
 
 ## Papers (11:45-13:00)
 
+**Chair**: Antonino Tumeo, PNNL, US
+
 ### Opening Remarks
 
-**Chairs**: Antonino Tumeo, PNNL, US
+**Speaker**: Antonino Tumeo, PNNL, US
+
+**Duration**: 15 minutes
 
 
 ### Title: A General Purpose Analog Computer to Population Protocol Compiler
 
-**Authors**: Xiang Huang and Andrei Migunov
+**Authors**: Xiang Huang and **Andrei Migunov**
 
 **Abstract**: The General-Purpose Analog Computer (GPAC) is a model of computation
 due to Shannon, based on Bush's differential analyzer, that has both
@@ -48,7 +52,7 @@ techniques such as DNA strand displacement cascades.
 
 ### Title: Compile-Time Optimization of the Energy Consumption of Numerical Computations
 
-**Authors**: Dorra Ben Khalifa and Matthieu Martel
+**Authors**: **Dorra Ben Khalifa** and Matthieu Martel
 
 **Abstract**: Over the past decade, precision tuning has become one of the key
 techniques for achieving significant gains in performance and energy efficiency.
@@ -62,6 +66,8 @@ validate our results on a  set of numerical benchmarks covering  various fields.
 
 
 ## Invited Talks (14:30-15:45)
+
+**Chairs**: Kristian Rietveld, Leiden University, NL
 
 ### Title: Effective HPC Programming via Domain-Specific Abstractions and Compilation
 
@@ -114,4 +120,6 @@ portability across diverse hardware platforms.
 
 ### Closing Remarks
 
-**Chairs**: Antonino Tumeo, PNNL
+**Speakers**: Antonino Tumeo, PNNL, US, Kristian Rietveld, Leiden University, NL
+
+**Duration**: 15 minutes

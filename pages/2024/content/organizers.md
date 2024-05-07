@@ -23,3 +23,8 @@
 
 * *David Donofrio* - Tactical Computing Laboratories
 * *John Leidel* - Tactical Computing Laboratories
+
+## Session Chairs
+
+* *Antonino Tumeo* - Pacific Northwest National Laboratory
+* *Kristian Rietveld* - Leiden University, NL
